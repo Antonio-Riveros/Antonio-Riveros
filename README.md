@@ -72,7 +72,6 @@ Enfocado en crear soluciones funcionales, eficientes y basadas en datos ⚙️
 
 ## 📬 Contacto
 
-📫 Tel: 1157026960  
 📫 LinkedIn: [antonio-riveros-b7a558281](https://www.linkedin.com/in/antonio-riveros-b7a558281/)  
 📫 GitHub: [Antonio-Riveros](https://github.com/Antonio-Riveros)
 
